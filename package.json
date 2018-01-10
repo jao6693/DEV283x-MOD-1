@@ -1,0 +1,15 @@
+{
+  "name": "Assignment-1",
+  "version": "1.0.0",
+  "description": "Convert csv file on file system into well-formatted JSON file",
+  "main": "convert-csv-to-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fabien",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.9"
+  }
+}
